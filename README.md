@@ -1,6 +1,6 @@
-# Biopharma-intranet
+# Biopharma-CI
 
-Code source se la demo biopharma-intranet-2018.
+Code source se la demo biopharma-intranet-2018. Déploiemnt d'un site web en CD.
 
 # Prérequis
 
